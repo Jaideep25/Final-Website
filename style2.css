@@ -48,7 +48,7 @@ p {
 
 .karateimg {
     border-radius: 15px;
-    background-image: url("OIP(1).jpg");
+    background-image: url("OIP (1).jpg");
     display: flex;
     width: 600px;
     height: 300px;
@@ -57,17 +57,7 @@ p {
     justify-content: right;
 }
 
-.drawingimg {
-    background-image: url(".jpg");
-    border-radius: 15px;
-    width: 600px;
-    height: 300px;
-    display: flex;
-    flex-wrap: wrap;
-    background-size: contain;
-    justify-content: space-evenly;
-    margin-left: 320px;
-}
+
 
 .backButton {
     border-radius: 40px;
