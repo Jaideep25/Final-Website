@@ -1,0 +1,80 @@
+html,body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-size: 20px;
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.header3 {
+    border-radius: 15px;
+    background-image: url("w.jpg");
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.text6 {
+    border-radius: 15px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.bigBox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.violinimg {
+    border-radius: 15px;
+    background-image: url("violin.jpg");
+    display: flex;
+    width: 600px;
+    height: 300px;
+    background-size: contain;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.karateimg {
+    border-radius: 15px;
+    background-image: url("5.jpg");
+    display: flex;
+    width: 600px;
+    height: 300px;
+    background-size: contain;
+    flex-wrap: wrap;
+    justify-content: right;
+}
+
+.drawingimg {
+    background-image: url(".jpg");
+    border-radius: 15px;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    background-size: contain;
+    justify-content: space-evenly;
+    margin-left: 320px;
+}
+
+.backButton {
+    border-radius: 40px;
+    margin-top: 40px;
+    margin-left: 570px;
+    width: 120px;
+    height: 30px;
+    background-image: linear-gradient(-90deg, white, whitesmoke);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
