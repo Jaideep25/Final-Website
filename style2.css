@@ -37,7 +37,7 @@ p {
 
 .violinimg {
     border-radius: 15px;
-    background-image: url("violin.jpg");
+    background-image: url("OIP.jpg");
     display: flex;
     width: 600px;
     height: 300px;
@@ -58,7 +58,7 @@ p {
 }
 
 .drawingimg {
-    background-image: url(".jpg");
+    background-image: url("OIP(1).jpg");
     border-radius: 15px;
     width: 600px;
     height: 300px;
